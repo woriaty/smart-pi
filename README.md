@@ -1,5 +1,5 @@
 # smart-pi
-基于友善之臂Nano pi Plus 2 NEO开发板的智能音箱项目
+基于友善之臂NanoPi-NEO-Plus2开发板的智能音箱项目
 
 项目中的代码运行需要的注意事项：
 

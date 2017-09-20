@@ -11,8 +11,8 @@ import wx.xrc
 
 singer_name = "李玉刚"
 song_name = "刚好遇见你"
-showapi_appid = "44587"  # 替换此值
-showapi_sign = "421548c293804d75ae837eccc5c63c2b"  # 替换此值
+showapi_appid = "****"  # 替换此值
+showapi_sign = "********************"  # 替换此值
 url = "http://route.showapi.com/213-1"
 send_api_data = parse.urlencode([
     ('showapi_appid', showapi_appid)
